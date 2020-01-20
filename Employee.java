@@ -1,7 +1,5 @@
 /**
 * Employee.java
-* @author Veronica Tsarkova
-* @since 11/30/18
 * Represents a general paid employee.
 */
 
