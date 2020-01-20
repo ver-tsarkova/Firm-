@@ -1,7 +1,5 @@
 /**
 * Staff.java
-* @author Veronica Tsarkova
-* @since 11/30/18
 * Represents the personnel staff of a particular business.
 */
 
