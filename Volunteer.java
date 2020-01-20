@@ -1,7 +1,5 @@
 /**
 * Volunteer.java
-* @author Veronica Tsarkova
-* @since 11/30/18
 * Represents a staff member that works as a volunteer.
 */
 
