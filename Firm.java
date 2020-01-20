@@ -1,7 +1,5 @@
 /**
 * Firm.java
-* @author Veronica Tsarkova
-* @since 11/30/18
 * Demonstrates polymorphism via inheritance.
 */
 
