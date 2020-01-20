@@ -1,7 +1,5 @@
 /**
 * StaffMember.java
-* @author Veronica Tsarkova
-* @since 11/26/18
 * Represents a generic staff member.
 */
 
