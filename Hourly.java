@@ -1,7 +1,5 @@
 /**
 * Hourly.java
-* @author Veronica Tsarkova
-* @since 11/26/18
 * Represents an employee that gets paid by the hour.
 */
 
