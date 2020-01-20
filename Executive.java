@@ -1,7 +1,5 @@
 /**
 * Executive.java
-* @author Veronica Tsarkova
-* @since 11/30/18
 * Represents an executive staff member, who can earn a bonus.
 */
 
