@@ -1,7 +1,5 @@
 /**
 * Payable.java
-* @author Veronica Tsarkova
-* @since 11/30/18
 */
 
 public interface Payable
